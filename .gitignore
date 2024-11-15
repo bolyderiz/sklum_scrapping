@@ -1,0 +1,12 @@
+# Ignorer les fichiers de données générés
+*.json
+*.xls
+*.html
+
+# Inclure un exemple du fichier de liens produits au lieu du fichier complet
+!all_product_links_sample.txt
+all_product_links.txt
+
+# Ignorer les fichiers temporaires de l'éditeur
+__pycache__/
+*.pyc
