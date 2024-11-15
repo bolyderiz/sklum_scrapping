@@ -82,7 +82,7 @@ Voici un exemple de structure des données extraites, stockées dans product_rev
 ```
 
 ## 👤 Auteurs
-bolyderiz - GitHub Profile
+- [bolyderiz](https://github.com/bolyderiz)
 
 N'hésitez pas à contribuer, poser des questions ou faire des suggestions pour améliorer ce projet.
 
